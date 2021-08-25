@@ -20,8 +20,8 @@ A proposta do projeto é recriar o famoso jogo da cobrinha totalmente em JavaScr
 
 ### Links
 
-- [Solução no Github]()
-- [Live site]()
+- [Solução no Github](https://github.com/nathannieg/recriando-jogo-cobrinha)
+- [Live site](https://nathannieg.github.io/recriando-jogo-cobrinha/)
 
 ### Desenvolvimento
 
